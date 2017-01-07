@@ -1,8 +1,8 @@
 # Steam for Node.js
 
-This is an slightly modified fork of Seishun's original Node.js port of [SteamKit2](https://github.com/SteamRE/SteamKit). It lets you interface with Steam without running an actual Steam client. Could be used to run an autonomous chat/trade bot.
+This is basically a fork of seishun's original Node.js port of [SteamKit2](https://github.com/SteamRE/SteamKit). It lets you interface with Steam without running an actual Steam client.
 
-If you use it, you really should consider donating via the original project
+If you use it, you really should consider donating to the [original project](https://github.com/seishun/node-steam)... I have just tidied things up a bit, and didn't do any of the hard yards that seishun did.
 
 
 # Installation

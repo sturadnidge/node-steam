@@ -1,7 +1,7 @@
 {
   "name": "node-steam",
   "version": "0.0.1",
-  "description": "Lets you interface with Steam without running an actual Steam client",
+  "description": "Lets you interface with Steam without running an actual Steam client... basically a fork of the `steam` module.",
   "author": "Stu Radnidge <sturadnidge@gmail.com>",
   "contributors": [
     {
